@@ -8,6 +8,6 @@ public class Hello {
 		
 		System.out.println("추가변경"); 
 		
-		// 주석
+		// 주석 테스트
 	}
 }
